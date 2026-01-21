@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769020356/ei/ZMdwaffND-mgir4P3fqP6A0/ip/20.168.119.20/id/tXRuaacO-ZU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rhct2h6LjRqD0G9NgW-aC9uFLpMtKkUXDTqd-clJwDliKM4Hm5a9fBWs-bO1jN6tI5uAoM85xh/spc/q5xjPL-WRwGQTiDkNRNf2KXJO_wMrFO7qTMGvvdvBeQMlcRzk8LR7XZAr8zX2CV7nsjfdg/vprv/1/go/1/ns/hGX_CIuo5gbzqrYLb5qiSSgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/FlxLJTHSa19vN5dubG5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgdcuJ0yTaqq0jCgbKZaYLVsYVM_uEC7Vlxt6fiIMppxYCIHL7yaxSuHNQ-jxyp50_y_ujlSmrOsiDOuhDhE1RvEUc/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chill Out Music Mixe
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769020414/ei/nsdwaY34DdCWsfIP16HnoQw/ip/20.168.119.20/id/m52ynxt1mOo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rMo10yuMJHVzXcM5y3aezeORj1hTpw_SSyXCcVZbGeAo25V7-Wh41ogiFAHnhM5kE1hL4z6bs-/spc/q5xjPI3V86KTjs86tao3C9QACyPKqOHODU6IAX83Z60O2UemaEf4Gx7REJ60TxkhmQo/vprv/1/go/1/ns/713ZfK5MXa8x1Wk195zZXLwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626154/dover/11/n/LW7UtFtHvo0p6MHSUDO/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgF53TGleEe6kCR3Oqf0yuhOZLEFQQMFHAk9aGrWcDnSkCIQDQgG3edqLK3RZuNIcloHyDCGpzPaDsazoBFkR4CCjUSg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chillout Lounge
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Times Square" tvg-logo="" tvg-id="", Times Square: 1560 Broadway View Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769020419/ei/o8dwaZ7rJ-7DsfIPuqqL2QU/ip/20.168.119.20/id/4qyZLflp-sI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oTGk-tZvuqBJ7U32skVgItGVTruB5iJxekh6CGs9FCOU2GjopbwnOwTUvtbPsmR42CSEUoUDHb/spc/q5xjPBHNzHCYmvNihFSghPIEqYPR_WJL3CIl_0alXDDNwp3JHNdiLkxdM_e3ec9hpjo/vprv/1/go/1/ns/Hjt8zU9Z5XwmsVGpqB8yOnES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626154/dover/11/n/PNNUIEeT4nxbYOZy6Gh/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAL8c0hR4izUj__Kax2HZMyLgwdrqcyJMBJF9TpNVXKd_AiAfz9i4X1zvXut9MxO7-_3MNFV3FeRLpNdi_4EALmuuxA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera" tvg-logo="" tvg-id="", Dubuque County - Dome
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
