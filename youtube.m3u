@@ -174,7 +174,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chillout Lounge
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772746994/ei/kqSpade_LdmkkucPwrKqyQI/ip/172.172.87.202/id/9UMxZofMNbA.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773368/txs/51773368%2C51773369%2C51773370%2C51773371%2C51773372%2C51773373/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wAXS-glS7iBo5um5vSfDvBKWlKlxjQdnqNFMt2QgwPtZa8KTlsbMc_v95hKiYkrbj_jZCPp1ij/spc/6dlaFLglPYfIogUNgWqm41xli-NXBanyKYp95v1ZhYMZruKMu4G2aO2u8X41DPjKO5imGA/vprv/1/go/1/ns/1tgnJk0ta0JzpRBM34pETtcT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/AJolGNdDsCye5ER9AdlT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgKmY8JNIGuj4pbTYuVbZNl9Ytv8mO3TiWGtrIU59K6dkCIAQNdmCOKDMsktMYW2gGllEtIM3ZJmArSjy6gtueqDaO/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6Vw9jUF.png" tvg-id="", ABC News Australia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
