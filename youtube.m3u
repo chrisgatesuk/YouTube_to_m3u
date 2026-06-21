@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Chillout Lounge - Calm & Relaxing Background Music
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782091120/ei/EDk4atniKaPfybgP6cfwuQ4/ip/172.215.209.178/id/9UMxZofMNbA.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828967/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEWqyVAuHLGtNMLsKkHT4COJQ-_wqt1vEp8dZFF8xS9-Vjn9WlLTGBRHYD89AV83Se9kiIsIqvV6/spc/SQ-umggGiM9NVjAWiYNzkucR5na5wX7UO_xTf4M0oPwD1F0h4RU6NQa0B2Xt81hmSh0fqQ/vprv/1/go/1/ns/X15MKGChqH1Q-mtNhO5P9ZYW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/LjKzbil8gu0_m39/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgMVN-DlW-P8KxKDf0Rtd0QN5ZftE1sHJNvPbIKDuKK_UCIDiwjf2P9BKuUHkaEz3AsE69dlPjm7jbBU-C6RrZqqi6/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PJ Masks
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782091135/ei/Hzk4aq6_J_2lir4PrsuskQo/ip/172.215.209.178/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/ARmQxEVSnHcNKX7wHfSAe9Fz1mm2QkN28ca8y2LmTLlksa2je7lCow10--DX6ezUo8FtHUB13usWwnur/spc/SQ-umqPxmo8M0ahBMjfhVB6fulYJBm7LxoqNX0bZceUvF7mkjvgfZD5VGvqTVZgx6H4YQQ/vprv/1/go/1/ns/MJhqPZV1vsn4OxP_lMpyi_kW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/mA7txNPEuVBrleh/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANitKwnI5Re14ICWOLifWBAu_-D1vjHSI-6ejPbegnI5AiAKqzAV97-A1AW0srJLAgrzp_rs5DXaiYkMvAmVGLTMQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://w7.pngwing.com/pngs/660/764/png-transparent-geo-logo-pakistan-geo-tv-geo-news-television-channel-ten-miscellaneous-television-blue.png" tvg-id="", Geo News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
